@@ -1,0 +1,5 @@
+Getting started with python
+https://code.visualstudio.com/docs/python/python-tutorial
+
+Getting started with robinhoodAPI
+https://towardsdatascience.com/step-by-step-building-an-automated-trading-system-in-robinhood-807d6d929cf3
