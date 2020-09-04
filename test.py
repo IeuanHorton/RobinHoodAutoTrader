@@ -1,0 +1,2 @@
+msg = "cool"
+print(msg)
